@@ -1,7 +1,7 @@
 # chat
 
 > 仿微博聊天静态页 vue 后期消息记录可以存到 vuex
-
+> 表情可以参照emotions组件加
 ## Build Setup
 
 ``` bash
